@@ -1,1 +1,1 @@
-# Blackcoffer-Django-Interactive-Dashboard
+# Django-Interactive-Dashboard
